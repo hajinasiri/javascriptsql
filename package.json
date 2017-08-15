@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hajinasiri/javascriptsql#readme",
   "dependencies": {
-    "knex": "^0.13.0"
+    "knex": "^0.13.0",
+    "pg": "^7.1.2"
   }
 }
